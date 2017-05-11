@@ -1,0 +1,1 @@
+/** * Created by Kate on 06/12/15. */public interface DiceInterface {    public void roll();    public int getValue();}
